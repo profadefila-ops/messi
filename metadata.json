@@ -1,0 +1,6 @@
+{
+  "name": "Studioform — Creative Agency",
+  "description": "Studioform creative agency hero section featuring interactive cursor flashlight spotlight reveal animation on silhouette portrait.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
