@@ -199,7 +199,7 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
 
                 <div className="inline-flex items-center justify-center mx-6 sm:mx-10 md:mx-12 shrink-0">
                   <img
-                    src="/src/assets/images/goat_emblem_clean.png"
+src="/images/goat_emblem_clean.png"
                     alt="GOAT Greatest Of All Time emblem"
                     referrerPolicy="no-referrer"
                     className="w-16 h-16 sm:w-22 sm:h-22 md:w-28 md:h-28 lg:w-32 lg:h-32 object-contain animate-goat-gleam select-none pointer-events-none filter drop-shadow-[0_0_24px_rgba(245,158,11,0.85)]"
@@ -222,7 +222,7 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
            xl:h-[100vh] flex items-center justify-center pointer-events-auto -translate-y-[8%]"
         >
           <img
-            src="/src/assets/images/hero_silhouette_clean.png"
+            src="/images/hero_silhouette_clean.png"
             alt="Lionel Messi raising both hands celebration silhouette"
             referrerPolicy="no-referrer"
             className="absolute inset-0 w-full h-full object-contain object-center pointer-events-none select-none"
@@ -238,7 +238,7 @@ export const HeroSection: React.FC<HeroSectionProps> = () => {
             }}
           >
             <img
-              src="/src/assets/images/hero_portrait_clean.png"
+              src="/images/hero_portrait_clean.png"
               alt="Lionel Messi in Argentina jersey celebrating with raised hands"
               referrerPolicy="no-referrer"
               className="w-full h-full object-contain object-center select-none"

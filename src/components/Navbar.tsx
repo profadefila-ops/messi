@@ -29,7 +29,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenGoatModal }) => {
           <div className="relative w-11 h-11 sm:w-12 sm:h-12 rounded-full p-[2px] bg-gradient-to-tr from-amber-400 via-white to-[#68a7dd] shadow-[0_0_16px_rgba(104,167,221,0.6)]">
             <div className="w-full h-full rounded-full overflow-hidden bg-slate-900 border border-white/60">
               <img
-                src="/src/assets/images/messi_head_avatar_1791395513045.jpg"
+                src="/images/messi_head_avatar_1791395513045.jpg"
                 alt="Moving head of Lionel Messi"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-top select-none pointer-events-none"
@@ -80,7 +80,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenGoatModal }) => {
         <div className="relative z-10 flex items-center gap-2.5">
           {/* Mini 3D GOAT Emblem */}
           <img
-            src="/src/assets/images/goat_emblem_clean.png"
+            src="/images/goat_emblem_clean.png"
             alt="GOAT"
             referrerPolicy="no-referrer"
             className="w-4 h-4 object-contain group-hover:rotate-12 transition-transform duration-500"
